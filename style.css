@@ -1,0 +1,49 @@
+.col {
+    text-align: center;
+    font-family: "Courgette", cursive;
+    margin-top: 50px;
+  }
+  .card-title {
+    font-size: 28px;
+  }
+  .card-text {
+    font-size: 22px;
+  }
+  h1,
+  h2 {
+    color: black;
+  }
+  
+  h1 {
+    margin-left: 40px;
+    margin-top: 1cm;
+    font-family: "Courgette", cursive;
+  }
+  h2 {
+    margin-top: 25px;
+    font-size: 40px;
+    margin-left: 3cm;
+    font-family: "Courgette", cursive;
+    margin-bottom: 0;
+  }
+  h3 {
+    color: blue;
+    margin-left: 5cm;
+    font-size: 30px;
+    font-family: "Courgette", cursive;
+    margin-top: 40px;
+  }
+  form {
+    position: absolute;
+    margin: 0;
+    right: 610px;
+    top: 3cm;
+    font-size: 25px;
+  }
+  
+  img {
+    position: absolute;
+    right: 4cm;
+    margin-top: -10px;
+  }
+  
