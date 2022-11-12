@@ -26,12 +26,12 @@
     font-family: "Courgette", cursive;
     margin-bottom: 0;
   }
-  h3 {
-    color: blue;
-    margin-left: 5cm;
-    font-size: 30px;
+  li {
+    color: rgb(107, 107, 207);
+    margin-left: 3cm;
+    font-size: 28px;
     font-family: "Courgette", cursive;
-    margin-top: 40px;
+    margin-top: 20px;
   }
   form {
     position: absolute;
